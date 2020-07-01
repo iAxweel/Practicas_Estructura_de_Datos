@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "../Practica 2/Ejercicio_2A.exe.manifest"
   "../Practica 2/Ejercicio_2A.pdb"
   "CMakeFiles/Ejercicio_2A.dir/Practica_2/Ejercicio_2A.cpp.obj"
+  "CMakeFiles/Ejercicio_2A.dir/Practica_2/Ejercicio_2B.cpp.obj"
   "libEjercicio_2A.dll.a"
 )
 

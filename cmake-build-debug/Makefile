@@ -161,6 +161,19 @@ Ejercicio_2A/fast:
 	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/build
 .PHONY : Ejercicio_2A/fast
 
+#=============================================================================
+# Target rules for targets named Ejercicio_2B
+
+# Build rule for target.
+Ejercicio_2B: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 Ejercicio_2B
+.PHONY : Ejercicio_2B
+
+# fast build rule for target.
+Ejercicio_2B/fast:
+	$(MAKE) -f CMakeFiles\Ejercicio_2B.dir\build.make CMakeFiles/Ejercicio_2B.dir/build
+.PHONY : Ejercicio_2B/fast
+
 Practica_1/Practica_1A.obj: Practica_1/Practica_1A.cpp.obj
 
 .PHONY : Practica_1/Practica_1A.obj
@@ -278,6 +291,36 @@ Practica_2/Ejercicio_2A.cpp.s:
 	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_2/Ejercicio_2A.cpp.s
 .PHONY : Practica_2/Ejercicio_2A.cpp.s
 
+Practica_2/Ejercicio_2B.obj: Practica_2/Ejercicio_2B.cpp.obj
+
+.PHONY : Practica_2/Ejercicio_2B.obj
+
+# target to build an object file
+Practica_2/Ejercicio_2B.cpp.obj:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_2/Ejercicio_2B.cpp.obj
+	$(MAKE) -f CMakeFiles\Ejercicio_2B.dir\build.make CMakeFiles/Ejercicio_2B.dir/Practica_2/Ejercicio_2B.cpp.obj
+.PHONY : Practica_2/Ejercicio_2B.cpp.obj
+
+Practica_2/Ejercicio_2B.i: Practica_2/Ejercicio_2B.cpp.i
+
+.PHONY : Practica_2/Ejercicio_2B.i
+
+# target to preprocess a source file
+Practica_2/Ejercicio_2B.cpp.i:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_2/Ejercicio_2B.cpp.i
+	$(MAKE) -f CMakeFiles\Ejercicio_2B.dir\build.make CMakeFiles/Ejercicio_2B.dir/Practica_2/Ejercicio_2B.cpp.i
+.PHONY : Practica_2/Ejercicio_2B.cpp.i
+
+Practica_2/Ejercicio_2B.s: Practica_2/Ejercicio_2B.cpp.s
+
+.PHONY : Practica_2/Ejercicio_2B.s
+
+# target to generate assembly for a file
+Practica_2/Ejercicio_2B.cpp.s:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_2/Ejercicio_2B.cpp.s
+	$(MAKE) -f CMakeFiles\Ejercicio_2B.dir\build.make CMakeFiles/Ejercicio_2B.dir/Practica_2/Ejercicio_2B.cpp.s
+.PHONY : Practica_2/Ejercicio_2B.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -288,6 +331,7 @@ help:
 	@echo ... Practica_1B
 	@echo ... Practica_1C
 	@echo ... Ejercicio_2A
+	@echo ... Ejercicio_2B
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Practica_1/Practica_1A.obj
@@ -302,6 +346,9 @@ help:
 	@echo ... Practica_2/Ejercicio_2A.obj
 	@echo ... Practica_2/Ejercicio_2A.i
 	@echo ... Practica_2/Ejercicio_2A.s
+	@echo ... Practica_2/Ejercicio_2B.obj
+	@echo ... Practica_2/Ejercicio_2B.i
+	@echo ... Practica_2/Ejercicio_2B.s
 .PHONY : help
 
 
