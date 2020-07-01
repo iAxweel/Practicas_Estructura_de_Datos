@@ -6,6 +6,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 2/Ejercicio_2A.cpp" "C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/CMakeFiles/Ejercicio_2A.dir/Practica_2/Ejercicio_2A.cpp.obj"
   "C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 2/Ejercicio_2B.cpp" "C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/CMakeFiles/Ejercicio_2A.dir/Practica_2/Ejercicio_2B.cpp.obj"
+  "C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 2/Ejercicio_3C.cpp" "C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/CMakeFiles/Ejercicio_2A.dir/Practica_2/Ejercicio_3C.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

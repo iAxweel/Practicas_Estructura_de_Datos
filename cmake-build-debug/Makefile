@@ -55,17 +55,6 @@ CMAKE_BINARY_DIR = "C:\Users\josue\OneDrive\Desktop\Curse C++\Practicas\cmake-bu
 #=============================================================================
 # Targets provided globally by CMake.
 
-# Special rule for the target edit_cache
-edit_cache:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	"C:\Program Files\JetBrains\CLion 2020.1.2\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available."
-.PHONY : edit_cache
-
-# Special rule for the target edit_cache
-edit_cache/fast: edit_cache
-
-.PHONY : edit_cache/fast
-
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
@@ -76,6 +65,17 @@ rebuild_cache:
 rebuild_cache/fast: rebuild_cache
 
 .PHONY : rebuild_cache/fast
+
+# Special rule for the target edit_cache
+edit_cache:
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
+	"C:\Program Files\JetBrains\CLion 2020.1.2\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available."
+.PHONY : edit_cache
+
+# Special rule for the target edit_cache
+edit_cache/fast: edit_cache
+
+.PHONY : edit_cache/fast
 
 # The main all target
 all: cmake_check_build_system
@@ -173,6 +173,19 @@ Ejercicio_2B: cmake_check_build_system
 Ejercicio_2B/fast:
 	$(MAKE) -f CMakeFiles\Ejercicio_2B.dir\build.make CMakeFiles/Ejercicio_2B.dir/build
 .PHONY : Ejercicio_2B/fast
+
+#=============================================================================
+# Target rules for targets named Ejercicio_3C
+
+# Build rule for target.
+Ejercicio_3C: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 Ejercicio_3C
+.PHONY : Ejercicio_3C
+
+# fast build rule for target.
+Ejercicio_3C/fast:
+	$(MAKE) -f CMakeFiles\Ejercicio_3C.dir\build.make CMakeFiles/Ejercicio_3C.dir/build
+.PHONY : Ejercicio_3C/fast
 
 Practica_1/Practica_1A.obj: Practica_1/Practica_1A.cpp.obj
 
@@ -321,6 +334,36 @@ Practica_2/Ejercicio_2B.cpp.s:
 	$(MAKE) -f CMakeFiles\Ejercicio_2B.dir\build.make CMakeFiles/Ejercicio_2B.dir/Practica_2/Ejercicio_2B.cpp.s
 .PHONY : Practica_2/Ejercicio_2B.cpp.s
 
+Practica_2/Ejercicio_3C.obj: Practica_2/Ejercicio_3C.cpp.obj
+
+.PHONY : Practica_2/Ejercicio_3C.obj
+
+# target to build an object file
+Practica_2/Ejercicio_3C.cpp.obj:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_2/Ejercicio_3C.cpp.obj
+	$(MAKE) -f CMakeFiles\Ejercicio_3C.dir\build.make CMakeFiles/Ejercicio_3C.dir/Practica_2/Ejercicio_3C.cpp.obj
+.PHONY : Practica_2/Ejercicio_3C.cpp.obj
+
+Practica_2/Ejercicio_3C.i: Practica_2/Ejercicio_3C.cpp.i
+
+.PHONY : Practica_2/Ejercicio_3C.i
+
+# target to preprocess a source file
+Practica_2/Ejercicio_3C.cpp.i:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_2/Ejercicio_3C.cpp.i
+	$(MAKE) -f CMakeFiles\Ejercicio_3C.dir\build.make CMakeFiles/Ejercicio_3C.dir/Practica_2/Ejercicio_3C.cpp.i
+.PHONY : Practica_2/Ejercicio_3C.cpp.i
+
+Practica_2/Ejercicio_3C.s: Practica_2/Ejercicio_3C.cpp.s
+
+.PHONY : Practica_2/Ejercicio_3C.s
+
+# target to generate assembly for a file
+Practica_2/Ejercicio_3C.cpp.s:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_2/Ejercicio_3C.cpp.s
+	$(MAKE) -f CMakeFiles\Ejercicio_3C.dir\build.make CMakeFiles/Ejercicio_3C.dir/Practica_2/Ejercicio_3C.cpp.s
+.PHONY : Practica_2/Ejercicio_3C.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -332,8 +375,9 @@ help:
 	@echo ... Practica_1C
 	@echo ... Ejercicio_2A
 	@echo ... Ejercicio_2B
-	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... Ejercicio_3C
+	@echo ... edit_cache
 	@echo ... Practica_1/Practica_1A.obj
 	@echo ... Practica_1/Practica_1A.i
 	@echo ... Practica_1/Practica_1A.s
@@ -349,6 +393,9 @@ help:
 	@echo ... Practica_2/Ejercicio_2B.obj
 	@echo ... Practica_2/Ejercicio_2B.i
 	@echo ... Practica_2/Ejercicio_2B.s
+	@echo ... Practica_2/Ejercicio_3C.obj
+	@echo ... Practica_2/Ejercicio_3C.i
+	@echo ... Practica_2/Ejercicio_3C.s
 .PHONY : help
 
 
