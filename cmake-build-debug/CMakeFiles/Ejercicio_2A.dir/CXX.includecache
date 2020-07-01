@@ -6,7 +6,43 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 2/Ejercicio_2A.cpp
+C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 2/Ejercicio_2B.cpp
+iostream
+-
+iomanip
+-
+cmath
+-
+sstream
+-
+
+C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 2/Ejercicio_2C.cpp
+iostream
+-
+iomanip
+-
+cmath
+-
+sstream
+-
+
+C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 2/Ejercicio_2D.cpp
+iostream
+-
+iomanip
+-
+
+C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 2/Ejercicio_2E.cpp
+iostream
+-
+iomanip
+-
+
+C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 2/Ejercicio_2F.cpp
+iostream
+-
+
+C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 2/Ejercicio_2G.cpp
 iostream
 -
 

@@ -3,3 +3,15 @@
 
 CMakeFiles/Ejercicio_2A.dir/Practica_2/Ejercicio_2A.cpp.obj: ../Practica\ 2/Ejercicio_2A.cpp
 
+CMakeFiles/Ejercicio_2A.dir/Practica_2/Ejercicio_2B.cpp.obj: ../Practica\ 2/Ejercicio_2B.cpp
+
+CMakeFiles/Ejercicio_2A.dir/Practica_2/Ejercicio_2C.cpp.obj: ../Practica\ 2/Ejercicio_2C.cpp
+
+CMakeFiles/Ejercicio_2A.dir/Practica_2/Ejercicio_2D.cpp.obj: ../Practica\ 2/Ejercicio_2D.cpp
+
+CMakeFiles/Ejercicio_2A.dir/Practica_2/Ejercicio_2E.cpp.obj: ../Practica\ 2/Ejercicio_2E.cpp
+
+CMakeFiles/Ejercicio_2A.dir/Practica_2/Ejercicio_2F.cpp.obj: ../Practica\ 2/Ejercicio_2F.cpp
+
+CMakeFiles/Ejercicio_2A.dir/Practica_2/Ejercicio_2G.cpp.obj: ../Practica\ 2/Ejercicio_2G.cpp
+
