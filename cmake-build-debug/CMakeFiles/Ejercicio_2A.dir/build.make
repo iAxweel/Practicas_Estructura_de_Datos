@@ -147,6 +147,71 @@ CMakeFiles/Ejercicio_2A.dir/Practica_2/Ejercicio_2G.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Ejercicio_2A.dir/Practica_2/Ejercicio_2G.cpp.s"
 	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\josue\OneDrive\Desktop\Curse C++\Practicas\Practica 2\Ejercicio_2G.cpp" -o CMakeFiles\Ejercicio_2A.dir\Practica_2\Ejercicio_2G.cpp.s
 
+CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3A.cpp.obj: CMakeFiles/Ejercicio_2A.dir/flags.make
+CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3A.cpp.obj: ../Practica\ 3/Ejercicio_3A.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\josue\OneDrive\Desktop\Curse C++\Practicas\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3A.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Ejercicio_2A.dir\Practica_3\Ejercicio_3A.cpp.obj -c "C:\Users\josue\OneDrive\Desktop\Curse C++\Practicas\Practica 3\Ejercicio_3A.cpp"
+
+CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3A.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3A.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\josue\OneDrive\Desktop\Curse C++\Practicas\Practica 3\Ejercicio_3A.cpp" > CMakeFiles\Ejercicio_2A.dir\Practica_3\Ejercicio_3A.cpp.i
+
+CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3A.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3A.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\josue\OneDrive\Desktop\Curse C++\Practicas\Practica 3\Ejercicio_3A.cpp" -o CMakeFiles\Ejercicio_2A.dir\Practica_3\Ejercicio_3A.cpp.s
+
+CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3B.cpp.obj: CMakeFiles/Ejercicio_2A.dir/flags.make
+CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3B.cpp.obj: ../Practica\ 3/Ejercicio_3B.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\josue\OneDrive\Desktop\Curse C++\Practicas\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3B.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Ejercicio_2A.dir\Practica_3\Ejercicio_3B.cpp.obj -c "C:\Users\josue\OneDrive\Desktop\Curse C++\Practicas\Practica 3\Ejercicio_3B.cpp"
+
+CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3B.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3B.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\josue\OneDrive\Desktop\Curse C++\Practicas\Practica 3\Ejercicio_3B.cpp" > CMakeFiles\Ejercicio_2A.dir\Practica_3\Ejercicio_3B.cpp.i
+
+CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3B.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3B.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\josue\OneDrive\Desktop\Curse C++\Practicas\Practica 3\Ejercicio_3B.cpp" -o CMakeFiles\Ejercicio_2A.dir\Practica_3\Ejercicio_3B.cpp.s
+
+CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3C.cpp.obj: CMakeFiles/Ejercicio_2A.dir/flags.make
+CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3C.cpp.obj: ../Practica\ 3/Ejercicio_3C.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\josue\OneDrive\Desktop\Curse C++\Practicas\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3C.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Ejercicio_2A.dir\Practica_3\Ejercicio_3C.cpp.obj -c "C:\Users\josue\OneDrive\Desktop\Curse C++\Practicas\Practica 3\Ejercicio_3C.cpp"
+
+CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3C.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3C.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\josue\OneDrive\Desktop\Curse C++\Practicas\Practica 3\Ejercicio_3C.cpp" > CMakeFiles\Ejercicio_2A.dir\Practica_3\Ejercicio_3C.cpp.i
+
+CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3C.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3C.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\josue\OneDrive\Desktop\Curse C++\Practicas\Practica 3\Ejercicio_3C.cpp" -o CMakeFiles\Ejercicio_2A.dir\Practica_3\Ejercicio_3C.cpp.s
+
+CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3D.cpp.obj: CMakeFiles/Ejercicio_2A.dir/flags.make
+CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3D.cpp.obj: ../Practica\ 3/Ejercicio_3D.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\josue\OneDrive\Desktop\Curse C++\Practicas\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3D.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Ejercicio_2A.dir\Practica_3\Ejercicio_3D.cpp.obj -c "C:\Users\josue\OneDrive\Desktop\Curse C++\Practicas\Practica 3\Ejercicio_3D.cpp"
+
+CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3D.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3D.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\josue\OneDrive\Desktop\Curse C++\Practicas\Practica 3\Ejercicio_3D.cpp" > CMakeFiles\Ejercicio_2A.dir\Practica_3\Ejercicio_3D.cpp.i
+
+CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3D.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3D.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\josue\OneDrive\Desktop\Curse C++\Practicas\Practica 3\Ejercicio_3D.cpp" -o CMakeFiles\Ejercicio_2A.dir\Practica_3\Ejercicio_3D.cpp.s
+
+CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3E.cpp.obj: CMakeFiles/Ejercicio_2A.dir/flags.make
+CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3E.cpp.obj: ../Practica\ 3/Ejercicio_3E.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\josue\OneDrive\Desktop\Curse C++\Practicas\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3E.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Ejercicio_2A.dir\Practica_3\Ejercicio_3E.cpp.obj -c "C:\Users\josue\OneDrive\Desktop\Curse C++\Practicas\Practica 3\Ejercicio_3E.cpp"
+
+CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3E.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3E.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\josue\OneDrive\Desktop\Curse C++\Practicas\Practica 3\Ejercicio_3E.cpp" > CMakeFiles\Ejercicio_2A.dir\Practica_3\Ejercicio_3E.cpp.i
+
+CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3E.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3E.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\josue\OneDrive\Desktop\Curse C++\Practicas\Practica 3\Ejercicio_3E.cpp" -o CMakeFiles\Ejercicio_2A.dir\Practica_3\Ejercicio_3E.cpp.s
+
 # Object files for target Ejercicio_2A
 Ejercicio_2A_OBJECTS = \
 "CMakeFiles/Ejercicio_2A.dir/Practica_2/Ejercicio_2A.cpp.obj" \
@@ -155,7 +220,12 @@ Ejercicio_2A_OBJECTS = \
 "CMakeFiles/Ejercicio_2A.dir/Practica_2/Ejercicio_2D.cpp.obj" \
 "CMakeFiles/Ejercicio_2A.dir/Practica_2/Ejercicio_2E.cpp.obj" \
 "CMakeFiles/Ejercicio_2A.dir/Practica_2/Ejercicio_2F.cpp.obj" \
-"CMakeFiles/Ejercicio_2A.dir/Practica_2/Ejercicio_2G.cpp.obj"
+"CMakeFiles/Ejercicio_2A.dir/Practica_2/Ejercicio_2G.cpp.obj" \
+"CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3A.cpp.obj" \
+"CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3B.cpp.obj" \
+"CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3C.cpp.obj" \
+"CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3D.cpp.obj" \
+"CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3E.cpp.obj"
 
 # External object files for target Ejercicio_2A
 Ejercicio_2A_EXTERNAL_OBJECTS =
@@ -167,11 +237,16 @@ Ejercicio_2A_EXTERNAL_OBJECTS =
 ../Practica\ 2/Ejercicio_2A.exe: CMakeFiles/Ejercicio_2A.dir/Practica_2/Ejercicio_2E.cpp.obj
 ../Practica\ 2/Ejercicio_2A.exe: CMakeFiles/Ejercicio_2A.dir/Practica_2/Ejercicio_2F.cpp.obj
 ../Practica\ 2/Ejercicio_2A.exe: CMakeFiles/Ejercicio_2A.dir/Practica_2/Ejercicio_2G.cpp.obj
+../Practica\ 2/Ejercicio_2A.exe: CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3A.cpp.obj
+../Practica\ 2/Ejercicio_2A.exe: CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3B.cpp.obj
+../Practica\ 2/Ejercicio_2A.exe: CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3C.cpp.obj
+../Practica\ 2/Ejercicio_2A.exe: CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3D.cpp.obj
+../Practica\ 2/Ejercicio_2A.exe: CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3E.cpp.obj
 ../Practica\ 2/Ejercicio_2A.exe: CMakeFiles/Ejercicio_2A.dir/build.make
 ../Practica\ 2/Ejercicio_2A.exe: CMakeFiles/Ejercicio_2A.dir/linklibs.rsp
 ../Practica\ 2/Ejercicio_2A.exe: CMakeFiles/Ejercicio_2A.dir/objects1.rsp
 ../Practica\ 2/Ejercicio_2A.exe: CMakeFiles/Ejercicio_2A.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\josue\OneDrive\Desktop\Curse C++\Practicas\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable \"..\Practica 2\Ejercicio_2A.exe\""
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\josue\OneDrive\Desktop\Curse C++\Practicas\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_13) "Linking CXX executable \"..\Practica 2\Ejercicio_2A.exe\""
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Ejercicio_2A.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

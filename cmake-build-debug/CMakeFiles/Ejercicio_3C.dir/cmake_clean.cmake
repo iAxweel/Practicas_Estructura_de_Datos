@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
-  "../Practica 2/Ejercicio_3C.exe"
-  "../Practica 2/Ejercicio_3C.exe.manifest"
-  "../Practica 2/Ejercicio_3C.pdb"
-  "CMakeFiles/Ejercicio_3C.dir/Practica_2/Ejercicio_2C.cpp.obj"
+  "../Practica 3/Ejercicio_3C.exe"
+  "../Practica 3/Ejercicio_3C.exe.manifest"
+  "../Practica 3/Ejercicio_3C.pdb"
+  "CMakeFiles/Ejercicio_3C.dir/Practica_3/Ejercicio_3C.cpp.obj"
   "libEjercicio_3C.dll.a"
 )
 
