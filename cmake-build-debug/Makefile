@@ -304,6 +304,201 @@ Ejercicio_3E/fast:
 	$(MAKE) -f CMakeFiles\Ejercicio_3E.dir\build.make CMakeFiles/Ejercicio_3E.dir/build
 .PHONY : Ejercicio_3E/fast
 
+#=============================================================================
+# Target rules for targets named Ejercicio_4A
+
+# Build rule for target.
+Ejercicio_4A: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 Ejercicio_4A
+.PHONY : Ejercicio_4A
+
+# fast build rule for target.
+Ejercicio_4A/fast:
+	$(MAKE) -f CMakeFiles\Ejercicio_4A.dir\build.make CMakeFiles/Ejercicio_4A.dir/build
+.PHONY : Ejercicio_4A/fast
+
+#=============================================================================
+# Target rules for targets named Ejercicio_4B
+
+# Build rule for target.
+Ejercicio_4B: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 Ejercicio_4B
+.PHONY : Ejercicio_4B
+
+# fast build rule for target.
+Ejercicio_4B/fast:
+	$(MAKE) -f CMakeFiles\Ejercicio_4B.dir\build.make CMakeFiles/Ejercicio_4B.dir/build
+.PHONY : Ejercicio_4B/fast
+
+#=============================================================================
+# Target rules for targets named Ejercicio_4C
+
+# Build rule for target.
+Ejercicio_4C: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 Ejercicio_4C
+.PHONY : Ejercicio_4C
+
+# fast build rule for target.
+Ejercicio_4C/fast:
+	$(MAKE) -f CMakeFiles\Ejercicio_4C.dir\build.make CMakeFiles/Ejercicio_4C.dir/build
+.PHONY : Ejercicio_4C/fast
+
+#=============================================================================
+# Target rules for targets named Ejercicio_4D
+
+# Build rule for target.
+Ejercicio_4D: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 Ejercicio_4D
+.PHONY : Ejercicio_4D
+
+# fast build rule for target.
+Ejercicio_4D/fast:
+	$(MAKE) -f CMakeFiles\Ejercicio_4D.dir\build.make CMakeFiles/Ejercicio_4D.dir/build
+.PHONY : Ejercicio_4D/fast
+
+#=============================================================================
+# Target rules for targets named Ejercicio_4E
+
+# Build rule for target.
+Ejercicio_4E: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 Ejercicio_4E
+.PHONY : Ejercicio_4E
+
+# fast build rule for target.
+Ejercicio_4E/fast:
+	$(MAKE) -f CMakeFiles\Ejercicio_4E.dir\build.make CMakeFiles/Ejercicio_4E.dir/build
+.PHONY : Ejercicio_4E/fast
+
+#=============================================================================
+# Target rules for targets named Ejercicio_4F
+
+# Build rule for target.
+Ejercicio_4F: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 Ejercicio_4F
+.PHONY : Ejercicio_4F
+
+# fast build rule for target.
+Ejercicio_4F/fast:
+	$(MAKE) -f CMakeFiles\Ejercicio_4F.dir\build.make CMakeFiles/Ejercicio_4F.dir/build
+.PHONY : Ejercicio_4F/fast
+
+#=============================================================================
+# Target rules for targets named Ejercicio_4G
+
+# Build rule for target.
+Ejercicio_4G: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 Ejercicio_4G
+.PHONY : Ejercicio_4G
+
+# fast build rule for target.
+Ejercicio_4G/fast:
+	$(MAKE) -f CMakeFiles\Ejercicio_4G.dir\build.make CMakeFiles/Ejercicio_4G.dir/build
+.PHONY : Ejercicio_4G/fast
+
+#=============================================================================
+# Target rules for targets named Ejercicio_5A
+
+# Build rule for target.
+Ejercicio_5A: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 Ejercicio_5A
+.PHONY : Ejercicio_5A
+
+# fast build rule for target.
+Ejercicio_5A/fast:
+	$(MAKE) -f CMakeFiles\Ejercicio_5A.dir\build.make CMakeFiles/Ejercicio_5A.dir/build
+.PHONY : Ejercicio_5A/fast
+
+#=============================================================================
+# Target rules for targets named Ejercicio_5B
+
+# Build rule for target.
+Ejercicio_5B: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 Ejercicio_5B
+.PHONY : Ejercicio_5B
+
+# fast build rule for target.
+Ejercicio_5B/fast:
+	$(MAKE) -f CMakeFiles\Ejercicio_5B.dir\build.make CMakeFiles/Ejercicio_5B.dir/build
+.PHONY : Ejercicio_5B/fast
+
+#=============================================================================
+# Target rules for targets named Ejercicio_5C
+
+# Build rule for target.
+Ejercicio_5C: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 Ejercicio_5C
+.PHONY : Ejercicio_5C
+
+# fast build rule for target.
+Ejercicio_5C/fast:
+	$(MAKE) -f CMakeFiles\Ejercicio_5C.dir\build.make CMakeFiles/Ejercicio_5C.dir/build
+.PHONY : Ejercicio_5C/fast
+
+#=============================================================================
+# Target rules for targets named Ejercicio_5D
+
+# Build rule for target.
+Ejercicio_5D: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 Ejercicio_5D
+.PHONY : Ejercicio_5D
+
+# fast build rule for target.
+Ejercicio_5D/fast:
+	$(MAKE) -f CMakeFiles\Ejercicio_5D.dir\build.make CMakeFiles/Ejercicio_5D.dir/build
+.PHONY : Ejercicio_5D/fast
+
+#=============================================================================
+# Target rules for targets named Ejercicio_5E
+
+# Build rule for target.
+Ejercicio_5E: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 Ejercicio_5E
+.PHONY : Ejercicio_5E
+
+# fast build rule for target.
+Ejercicio_5E/fast:
+	$(MAKE) -f CMakeFiles\Ejercicio_5E.dir\build.make CMakeFiles/Ejercicio_5E.dir/build
+.PHONY : Ejercicio_5E/fast
+
+#=============================================================================
+# Target rules for targets named Ejercicio_6A
+
+# Build rule for target.
+Ejercicio_6A: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 Ejercicio_6A
+.PHONY : Ejercicio_6A
+
+# fast build rule for target.
+Ejercicio_6A/fast:
+	$(MAKE) -f CMakeFiles\Ejercicio_6A.dir\build.make CMakeFiles/Ejercicio_6A.dir/build
+.PHONY : Ejercicio_6A/fast
+
+#=============================================================================
+# Target rules for targets named Ejercicio_6B
+
+# Build rule for target.
+Ejercicio_6B: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 Ejercicio_6B
+.PHONY : Ejercicio_6B
+
+# fast build rule for target.
+Ejercicio_6B/fast:
+	$(MAKE) -f CMakeFiles\Ejercicio_6B.dir\build.make CMakeFiles/Ejercicio_6B.dir/build
+.PHONY : Ejercicio_6B/fast
+
+#=============================================================================
+# Target rules for targets named Ejercicio_6C
+
+# Build rule for target.
+Ejercicio_6C: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 Ejercicio_6C
+.PHONY : Ejercicio_6C
+
+# fast build rule for target.
+Ejercicio_6C/fast:
+	$(MAKE) -f CMakeFiles\Ejercicio_6C.dir\build.make CMakeFiles/Ejercicio_6C.dir/build
+.PHONY : Ejercicio_6C/fast
+
 Practica_1/Practica_1A.obj: Practica_1/Practica_1A.cpp.obj
 
 .PHONY : Practica_1/Practica_1A.obj
@@ -751,6 +946,456 @@ Practica_3/Ejercicio_3E.cpp.s:
 	$(MAKE) -f CMakeFiles\Ejercicio_3E.dir\build.make CMakeFiles/Ejercicio_3E.dir/Practica_3/Ejercicio_3E.cpp.s
 .PHONY : Practica_3/Ejercicio_3E.cpp.s
 
+Practica_4/Ejercicio_4A.obj: Practica_4/Ejercicio_4A.cpp.obj
+
+.PHONY : Practica_4/Ejercicio_4A.obj
+
+# target to build an object file
+Practica_4/Ejercicio_4A.cpp.obj:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_4/Ejercicio_4A.cpp.obj
+	$(MAKE) -f CMakeFiles\Ejercicio_4A.dir\build.make CMakeFiles/Ejercicio_4A.dir/Practica_4/Ejercicio_4A.cpp.obj
+.PHONY : Practica_4/Ejercicio_4A.cpp.obj
+
+Practica_4/Ejercicio_4A.i: Practica_4/Ejercicio_4A.cpp.i
+
+.PHONY : Practica_4/Ejercicio_4A.i
+
+# target to preprocess a source file
+Practica_4/Ejercicio_4A.cpp.i:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_4/Ejercicio_4A.cpp.i
+	$(MAKE) -f CMakeFiles\Ejercicio_4A.dir\build.make CMakeFiles/Ejercicio_4A.dir/Practica_4/Ejercicio_4A.cpp.i
+.PHONY : Practica_4/Ejercicio_4A.cpp.i
+
+Practica_4/Ejercicio_4A.s: Practica_4/Ejercicio_4A.cpp.s
+
+.PHONY : Practica_4/Ejercicio_4A.s
+
+# target to generate assembly for a file
+Practica_4/Ejercicio_4A.cpp.s:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_4/Ejercicio_4A.cpp.s
+	$(MAKE) -f CMakeFiles\Ejercicio_4A.dir\build.make CMakeFiles/Ejercicio_4A.dir/Practica_4/Ejercicio_4A.cpp.s
+.PHONY : Practica_4/Ejercicio_4A.cpp.s
+
+Practica_4/Ejercicio_4B.obj: Practica_4/Ejercicio_4B.cpp.obj
+
+.PHONY : Practica_4/Ejercicio_4B.obj
+
+# target to build an object file
+Practica_4/Ejercicio_4B.cpp.obj:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_4/Ejercicio_4B.cpp.obj
+	$(MAKE) -f CMakeFiles\Ejercicio_4B.dir\build.make CMakeFiles/Ejercicio_4B.dir/Practica_4/Ejercicio_4B.cpp.obj
+.PHONY : Practica_4/Ejercicio_4B.cpp.obj
+
+Practica_4/Ejercicio_4B.i: Practica_4/Ejercicio_4B.cpp.i
+
+.PHONY : Practica_4/Ejercicio_4B.i
+
+# target to preprocess a source file
+Practica_4/Ejercicio_4B.cpp.i:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_4/Ejercicio_4B.cpp.i
+	$(MAKE) -f CMakeFiles\Ejercicio_4B.dir\build.make CMakeFiles/Ejercicio_4B.dir/Practica_4/Ejercicio_4B.cpp.i
+.PHONY : Practica_4/Ejercicio_4B.cpp.i
+
+Practica_4/Ejercicio_4B.s: Practica_4/Ejercicio_4B.cpp.s
+
+.PHONY : Practica_4/Ejercicio_4B.s
+
+# target to generate assembly for a file
+Practica_4/Ejercicio_4B.cpp.s:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_4/Ejercicio_4B.cpp.s
+	$(MAKE) -f CMakeFiles\Ejercicio_4B.dir\build.make CMakeFiles/Ejercicio_4B.dir/Practica_4/Ejercicio_4B.cpp.s
+.PHONY : Practica_4/Ejercicio_4B.cpp.s
+
+Practica_4/Ejercicio_4C.obj: Practica_4/Ejercicio_4C.cpp.obj
+
+.PHONY : Practica_4/Ejercicio_4C.obj
+
+# target to build an object file
+Practica_4/Ejercicio_4C.cpp.obj:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_4/Ejercicio_4C.cpp.obj
+	$(MAKE) -f CMakeFiles\Ejercicio_4C.dir\build.make CMakeFiles/Ejercicio_4C.dir/Practica_4/Ejercicio_4C.cpp.obj
+.PHONY : Practica_4/Ejercicio_4C.cpp.obj
+
+Practica_4/Ejercicio_4C.i: Practica_4/Ejercicio_4C.cpp.i
+
+.PHONY : Practica_4/Ejercicio_4C.i
+
+# target to preprocess a source file
+Practica_4/Ejercicio_4C.cpp.i:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_4/Ejercicio_4C.cpp.i
+	$(MAKE) -f CMakeFiles\Ejercicio_4C.dir\build.make CMakeFiles/Ejercicio_4C.dir/Practica_4/Ejercicio_4C.cpp.i
+.PHONY : Practica_4/Ejercicio_4C.cpp.i
+
+Practica_4/Ejercicio_4C.s: Practica_4/Ejercicio_4C.cpp.s
+
+.PHONY : Practica_4/Ejercicio_4C.s
+
+# target to generate assembly for a file
+Practica_4/Ejercicio_4C.cpp.s:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_4/Ejercicio_4C.cpp.s
+	$(MAKE) -f CMakeFiles\Ejercicio_4C.dir\build.make CMakeFiles/Ejercicio_4C.dir/Practica_4/Ejercicio_4C.cpp.s
+.PHONY : Practica_4/Ejercicio_4C.cpp.s
+
+Practica_4/Ejercicio_4D.obj: Practica_4/Ejercicio_4D.cpp.obj
+
+.PHONY : Practica_4/Ejercicio_4D.obj
+
+# target to build an object file
+Practica_4/Ejercicio_4D.cpp.obj:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_4/Ejercicio_4D.cpp.obj
+	$(MAKE) -f CMakeFiles\Ejercicio_4D.dir\build.make CMakeFiles/Ejercicio_4D.dir/Practica_4/Ejercicio_4D.cpp.obj
+.PHONY : Practica_4/Ejercicio_4D.cpp.obj
+
+Practica_4/Ejercicio_4D.i: Practica_4/Ejercicio_4D.cpp.i
+
+.PHONY : Practica_4/Ejercicio_4D.i
+
+# target to preprocess a source file
+Practica_4/Ejercicio_4D.cpp.i:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_4/Ejercicio_4D.cpp.i
+	$(MAKE) -f CMakeFiles\Ejercicio_4D.dir\build.make CMakeFiles/Ejercicio_4D.dir/Practica_4/Ejercicio_4D.cpp.i
+.PHONY : Practica_4/Ejercicio_4D.cpp.i
+
+Practica_4/Ejercicio_4D.s: Practica_4/Ejercicio_4D.cpp.s
+
+.PHONY : Practica_4/Ejercicio_4D.s
+
+# target to generate assembly for a file
+Practica_4/Ejercicio_4D.cpp.s:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_4/Ejercicio_4D.cpp.s
+	$(MAKE) -f CMakeFiles\Ejercicio_4D.dir\build.make CMakeFiles/Ejercicio_4D.dir/Practica_4/Ejercicio_4D.cpp.s
+.PHONY : Practica_4/Ejercicio_4D.cpp.s
+
+Practica_4/Ejercicio_4E.obj: Practica_4/Ejercicio_4E.cpp.obj
+
+.PHONY : Practica_4/Ejercicio_4E.obj
+
+# target to build an object file
+Practica_4/Ejercicio_4E.cpp.obj:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_4/Ejercicio_4E.cpp.obj
+	$(MAKE) -f CMakeFiles\Ejercicio_4E.dir\build.make CMakeFiles/Ejercicio_4E.dir/Practica_4/Ejercicio_4E.cpp.obj
+.PHONY : Practica_4/Ejercicio_4E.cpp.obj
+
+Practica_4/Ejercicio_4E.i: Practica_4/Ejercicio_4E.cpp.i
+
+.PHONY : Practica_4/Ejercicio_4E.i
+
+# target to preprocess a source file
+Practica_4/Ejercicio_4E.cpp.i:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_4/Ejercicio_4E.cpp.i
+	$(MAKE) -f CMakeFiles\Ejercicio_4E.dir\build.make CMakeFiles/Ejercicio_4E.dir/Practica_4/Ejercicio_4E.cpp.i
+.PHONY : Practica_4/Ejercicio_4E.cpp.i
+
+Practica_4/Ejercicio_4E.s: Practica_4/Ejercicio_4E.cpp.s
+
+.PHONY : Practica_4/Ejercicio_4E.s
+
+# target to generate assembly for a file
+Practica_4/Ejercicio_4E.cpp.s:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_4/Ejercicio_4E.cpp.s
+	$(MAKE) -f CMakeFiles\Ejercicio_4E.dir\build.make CMakeFiles/Ejercicio_4E.dir/Practica_4/Ejercicio_4E.cpp.s
+.PHONY : Practica_4/Ejercicio_4E.cpp.s
+
+Practica_4/Ejercicio_4F.obj: Practica_4/Ejercicio_4F.cpp.obj
+
+.PHONY : Practica_4/Ejercicio_4F.obj
+
+# target to build an object file
+Practica_4/Ejercicio_4F.cpp.obj:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_4/Ejercicio_4F.cpp.obj
+	$(MAKE) -f CMakeFiles\Ejercicio_4F.dir\build.make CMakeFiles/Ejercicio_4F.dir/Practica_4/Ejercicio_4F.cpp.obj
+.PHONY : Practica_4/Ejercicio_4F.cpp.obj
+
+Practica_4/Ejercicio_4F.i: Practica_4/Ejercicio_4F.cpp.i
+
+.PHONY : Practica_4/Ejercicio_4F.i
+
+# target to preprocess a source file
+Practica_4/Ejercicio_4F.cpp.i:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_4/Ejercicio_4F.cpp.i
+	$(MAKE) -f CMakeFiles\Ejercicio_4F.dir\build.make CMakeFiles/Ejercicio_4F.dir/Practica_4/Ejercicio_4F.cpp.i
+.PHONY : Practica_4/Ejercicio_4F.cpp.i
+
+Practica_4/Ejercicio_4F.s: Practica_4/Ejercicio_4F.cpp.s
+
+.PHONY : Practica_4/Ejercicio_4F.s
+
+# target to generate assembly for a file
+Practica_4/Ejercicio_4F.cpp.s:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_4/Ejercicio_4F.cpp.s
+	$(MAKE) -f CMakeFiles\Ejercicio_4F.dir\build.make CMakeFiles/Ejercicio_4F.dir/Practica_4/Ejercicio_4F.cpp.s
+.PHONY : Practica_4/Ejercicio_4F.cpp.s
+
+Practica_4/Ejercicio_4G.obj: Practica_4/Ejercicio_4G.cpp.obj
+
+.PHONY : Practica_4/Ejercicio_4G.obj
+
+# target to build an object file
+Practica_4/Ejercicio_4G.cpp.obj:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_4/Ejercicio_4G.cpp.obj
+	$(MAKE) -f CMakeFiles\Ejercicio_4G.dir\build.make CMakeFiles/Ejercicio_4G.dir/Practica_4/Ejercicio_4G.cpp.obj
+.PHONY : Practica_4/Ejercicio_4G.cpp.obj
+
+Practica_4/Ejercicio_4G.i: Practica_4/Ejercicio_4G.cpp.i
+
+.PHONY : Practica_4/Ejercicio_4G.i
+
+# target to preprocess a source file
+Practica_4/Ejercicio_4G.cpp.i:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_4/Ejercicio_4G.cpp.i
+	$(MAKE) -f CMakeFiles\Ejercicio_4G.dir\build.make CMakeFiles/Ejercicio_4G.dir/Practica_4/Ejercicio_4G.cpp.i
+.PHONY : Practica_4/Ejercicio_4G.cpp.i
+
+Practica_4/Ejercicio_4G.s: Practica_4/Ejercicio_4G.cpp.s
+
+.PHONY : Practica_4/Ejercicio_4G.s
+
+# target to generate assembly for a file
+Practica_4/Ejercicio_4G.cpp.s:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_4/Ejercicio_4G.cpp.s
+	$(MAKE) -f CMakeFiles\Ejercicio_4G.dir\build.make CMakeFiles/Ejercicio_4G.dir/Practica_4/Ejercicio_4G.cpp.s
+.PHONY : Practica_4/Ejercicio_4G.cpp.s
+
+Practica_5/Ejercicio_5A.obj: Practica_5/Ejercicio_5A.cpp.obj
+
+.PHONY : Practica_5/Ejercicio_5A.obj
+
+# target to build an object file
+Practica_5/Ejercicio_5A.cpp.obj:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_5/Ejercicio_5A.cpp.obj
+	$(MAKE) -f CMakeFiles\Ejercicio_5A.dir\build.make CMakeFiles/Ejercicio_5A.dir/Practica_5/Ejercicio_5A.cpp.obj
+.PHONY : Practica_5/Ejercicio_5A.cpp.obj
+
+Practica_5/Ejercicio_5A.i: Practica_5/Ejercicio_5A.cpp.i
+
+.PHONY : Practica_5/Ejercicio_5A.i
+
+# target to preprocess a source file
+Practica_5/Ejercicio_5A.cpp.i:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_5/Ejercicio_5A.cpp.i
+	$(MAKE) -f CMakeFiles\Ejercicio_5A.dir\build.make CMakeFiles/Ejercicio_5A.dir/Practica_5/Ejercicio_5A.cpp.i
+.PHONY : Practica_5/Ejercicio_5A.cpp.i
+
+Practica_5/Ejercicio_5A.s: Practica_5/Ejercicio_5A.cpp.s
+
+.PHONY : Practica_5/Ejercicio_5A.s
+
+# target to generate assembly for a file
+Practica_5/Ejercicio_5A.cpp.s:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_5/Ejercicio_5A.cpp.s
+	$(MAKE) -f CMakeFiles\Ejercicio_5A.dir\build.make CMakeFiles/Ejercicio_5A.dir/Practica_5/Ejercicio_5A.cpp.s
+.PHONY : Practica_5/Ejercicio_5A.cpp.s
+
+Practica_5/Ejercicio_5B.obj: Practica_5/Ejercicio_5B.cpp.obj
+
+.PHONY : Practica_5/Ejercicio_5B.obj
+
+# target to build an object file
+Practica_5/Ejercicio_5B.cpp.obj:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_5/Ejercicio_5B.cpp.obj
+	$(MAKE) -f CMakeFiles\Ejercicio_5B.dir\build.make CMakeFiles/Ejercicio_5B.dir/Practica_5/Ejercicio_5B.cpp.obj
+.PHONY : Practica_5/Ejercicio_5B.cpp.obj
+
+Practica_5/Ejercicio_5B.i: Practica_5/Ejercicio_5B.cpp.i
+
+.PHONY : Practica_5/Ejercicio_5B.i
+
+# target to preprocess a source file
+Practica_5/Ejercicio_5B.cpp.i:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_5/Ejercicio_5B.cpp.i
+	$(MAKE) -f CMakeFiles\Ejercicio_5B.dir\build.make CMakeFiles/Ejercicio_5B.dir/Practica_5/Ejercicio_5B.cpp.i
+.PHONY : Practica_5/Ejercicio_5B.cpp.i
+
+Practica_5/Ejercicio_5B.s: Practica_5/Ejercicio_5B.cpp.s
+
+.PHONY : Practica_5/Ejercicio_5B.s
+
+# target to generate assembly for a file
+Practica_5/Ejercicio_5B.cpp.s:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_5/Ejercicio_5B.cpp.s
+	$(MAKE) -f CMakeFiles\Ejercicio_5B.dir\build.make CMakeFiles/Ejercicio_5B.dir/Practica_5/Ejercicio_5B.cpp.s
+.PHONY : Practica_5/Ejercicio_5B.cpp.s
+
+Practica_5/Ejercicio_5C.obj: Practica_5/Ejercicio_5C.cpp.obj
+
+.PHONY : Practica_5/Ejercicio_5C.obj
+
+# target to build an object file
+Practica_5/Ejercicio_5C.cpp.obj:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_5/Ejercicio_5C.cpp.obj
+	$(MAKE) -f CMakeFiles\Ejercicio_5C.dir\build.make CMakeFiles/Ejercicio_5C.dir/Practica_5/Ejercicio_5C.cpp.obj
+.PHONY : Practica_5/Ejercicio_5C.cpp.obj
+
+Practica_5/Ejercicio_5C.i: Practica_5/Ejercicio_5C.cpp.i
+
+.PHONY : Practica_5/Ejercicio_5C.i
+
+# target to preprocess a source file
+Practica_5/Ejercicio_5C.cpp.i:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_5/Ejercicio_5C.cpp.i
+	$(MAKE) -f CMakeFiles\Ejercicio_5C.dir\build.make CMakeFiles/Ejercicio_5C.dir/Practica_5/Ejercicio_5C.cpp.i
+.PHONY : Practica_5/Ejercicio_5C.cpp.i
+
+Practica_5/Ejercicio_5C.s: Practica_5/Ejercicio_5C.cpp.s
+
+.PHONY : Practica_5/Ejercicio_5C.s
+
+# target to generate assembly for a file
+Practica_5/Ejercicio_5C.cpp.s:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_5/Ejercicio_5C.cpp.s
+	$(MAKE) -f CMakeFiles\Ejercicio_5C.dir\build.make CMakeFiles/Ejercicio_5C.dir/Practica_5/Ejercicio_5C.cpp.s
+.PHONY : Practica_5/Ejercicio_5C.cpp.s
+
+Practica_5/Ejercicio_5D.obj: Practica_5/Ejercicio_5D.cpp.obj
+
+.PHONY : Practica_5/Ejercicio_5D.obj
+
+# target to build an object file
+Practica_5/Ejercicio_5D.cpp.obj:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_5/Ejercicio_5D.cpp.obj
+	$(MAKE) -f CMakeFiles\Ejercicio_5D.dir\build.make CMakeFiles/Ejercicio_5D.dir/Practica_5/Ejercicio_5D.cpp.obj
+.PHONY : Practica_5/Ejercicio_5D.cpp.obj
+
+Practica_5/Ejercicio_5D.i: Practica_5/Ejercicio_5D.cpp.i
+
+.PHONY : Practica_5/Ejercicio_5D.i
+
+# target to preprocess a source file
+Practica_5/Ejercicio_5D.cpp.i:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_5/Ejercicio_5D.cpp.i
+	$(MAKE) -f CMakeFiles\Ejercicio_5D.dir\build.make CMakeFiles/Ejercicio_5D.dir/Practica_5/Ejercicio_5D.cpp.i
+.PHONY : Practica_5/Ejercicio_5D.cpp.i
+
+Practica_5/Ejercicio_5D.s: Practica_5/Ejercicio_5D.cpp.s
+
+.PHONY : Practica_5/Ejercicio_5D.s
+
+# target to generate assembly for a file
+Practica_5/Ejercicio_5D.cpp.s:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_5/Ejercicio_5D.cpp.s
+	$(MAKE) -f CMakeFiles\Ejercicio_5D.dir\build.make CMakeFiles/Ejercicio_5D.dir/Practica_5/Ejercicio_5D.cpp.s
+.PHONY : Practica_5/Ejercicio_5D.cpp.s
+
+Practica_5/Ejercicio_5E.obj: Practica_5/Ejercicio_5E.cpp.obj
+
+.PHONY : Practica_5/Ejercicio_5E.obj
+
+# target to build an object file
+Practica_5/Ejercicio_5E.cpp.obj:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_5/Ejercicio_5E.cpp.obj
+	$(MAKE) -f CMakeFiles\Ejercicio_5E.dir\build.make CMakeFiles/Ejercicio_5E.dir/Practica_5/Ejercicio_5E.cpp.obj
+.PHONY : Practica_5/Ejercicio_5E.cpp.obj
+
+Practica_5/Ejercicio_5E.i: Practica_5/Ejercicio_5E.cpp.i
+
+.PHONY : Practica_5/Ejercicio_5E.i
+
+# target to preprocess a source file
+Practica_5/Ejercicio_5E.cpp.i:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_5/Ejercicio_5E.cpp.i
+	$(MAKE) -f CMakeFiles\Ejercicio_5E.dir\build.make CMakeFiles/Ejercicio_5E.dir/Practica_5/Ejercicio_5E.cpp.i
+.PHONY : Practica_5/Ejercicio_5E.cpp.i
+
+Practica_5/Ejercicio_5E.s: Practica_5/Ejercicio_5E.cpp.s
+
+.PHONY : Practica_5/Ejercicio_5E.s
+
+# target to generate assembly for a file
+Practica_5/Ejercicio_5E.cpp.s:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_5/Ejercicio_5E.cpp.s
+	$(MAKE) -f CMakeFiles\Ejercicio_5E.dir\build.make CMakeFiles/Ejercicio_5E.dir/Practica_5/Ejercicio_5E.cpp.s
+.PHONY : Practica_5/Ejercicio_5E.cpp.s
+
+Practica_6/Ejercicio_6A.obj: Practica_6/Ejercicio_6A.cpp.obj
+
+.PHONY : Practica_6/Ejercicio_6A.obj
+
+# target to build an object file
+Practica_6/Ejercicio_6A.cpp.obj:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_6/Ejercicio_6A.cpp.obj
+	$(MAKE) -f CMakeFiles\Ejercicio_6A.dir\build.make CMakeFiles/Ejercicio_6A.dir/Practica_6/Ejercicio_6A.cpp.obj
+.PHONY : Practica_6/Ejercicio_6A.cpp.obj
+
+Practica_6/Ejercicio_6A.i: Practica_6/Ejercicio_6A.cpp.i
+
+.PHONY : Practica_6/Ejercicio_6A.i
+
+# target to preprocess a source file
+Practica_6/Ejercicio_6A.cpp.i:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_6/Ejercicio_6A.cpp.i
+	$(MAKE) -f CMakeFiles\Ejercicio_6A.dir\build.make CMakeFiles/Ejercicio_6A.dir/Practica_6/Ejercicio_6A.cpp.i
+.PHONY : Practica_6/Ejercicio_6A.cpp.i
+
+Practica_6/Ejercicio_6A.s: Practica_6/Ejercicio_6A.cpp.s
+
+.PHONY : Practica_6/Ejercicio_6A.s
+
+# target to generate assembly for a file
+Practica_6/Ejercicio_6A.cpp.s:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_6/Ejercicio_6A.cpp.s
+	$(MAKE) -f CMakeFiles\Ejercicio_6A.dir\build.make CMakeFiles/Ejercicio_6A.dir/Practica_6/Ejercicio_6A.cpp.s
+.PHONY : Practica_6/Ejercicio_6A.cpp.s
+
+Practica_6/Ejercicio_6B.obj: Practica_6/Ejercicio_6B.cpp.obj
+
+.PHONY : Practica_6/Ejercicio_6B.obj
+
+# target to build an object file
+Practica_6/Ejercicio_6B.cpp.obj:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_6/Ejercicio_6B.cpp.obj
+	$(MAKE) -f CMakeFiles\Ejercicio_6B.dir\build.make CMakeFiles/Ejercicio_6B.dir/Practica_6/Ejercicio_6B.cpp.obj
+.PHONY : Practica_6/Ejercicio_6B.cpp.obj
+
+Practica_6/Ejercicio_6B.i: Practica_6/Ejercicio_6B.cpp.i
+
+.PHONY : Practica_6/Ejercicio_6B.i
+
+# target to preprocess a source file
+Practica_6/Ejercicio_6B.cpp.i:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_6/Ejercicio_6B.cpp.i
+	$(MAKE) -f CMakeFiles\Ejercicio_6B.dir\build.make CMakeFiles/Ejercicio_6B.dir/Practica_6/Ejercicio_6B.cpp.i
+.PHONY : Practica_6/Ejercicio_6B.cpp.i
+
+Practica_6/Ejercicio_6B.s: Practica_6/Ejercicio_6B.cpp.s
+
+.PHONY : Practica_6/Ejercicio_6B.s
+
+# target to generate assembly for a file
+Practica_6/Ejercicio_6B.cpp.s:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_6/Ejercicio_6B.cpp.s
+	$(MAKE) -f CMakeFiles\Ejercicio_6B.dir\build.make CMakeFiles/Ejercicio_6B.dir/Practica_6/Ejercicio_6B.cpp.s
+.PHONY : Practica_6/Ejercicio_6B.cpp.s
+
+Practica_6/Ejercicio_6C.obj: Practica_6/Ejercicio_6C.cpp.obj
+
+.PHONY : Practica_6/Ejercicio_6C.obj
+
+# target to build an object file
+Practica_6/Ejercicio_6C.cpp.obj:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_6/Ejercicio_6C.cpp.obj
+	$(MAKE) -f CMakeFiles\Ejercicio_6C.dir\build.make CMakeFiles/Ejercicio_6C.dir/Practica_6/Ejercicio_6C.cpp.obj
+.PHONY : Practica_6/Ejercicio_6C.cpp.obj
+
+Practica_6/Ejercicio_6C.i: Practica_6/Ejercicio_6C.cpp.i
+
+.PHONY : Practica_6/Ejercicio_6C.i
+
+# target to preprocess a source file
+Practica_6/Ejercicio_6C.cpp.i:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_6/Ejercicio_6C.cpp.i
+	$(MAKE) -f CMakeFiles\Ejercicio_6C.dir\build.make CMakeFiles/Ejercicio_6C.dir/Practica_6/Ejercicio_6C.cpp.i
+.PHONY : Practica_6/Ejercicio_6C.cpp.i
+
+Practica_6/Ejercicio_6C.s: Practica_6/Ejercicio_6C.cpp.s
+
+.PHONY : Practica_6/Ejercicio_6C.s
+
+# target to generate assembly for a file
+Practica_6/Ejercicio_6C.cpp.s:
+	$(MAKE) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_6/Ejercicio_6C.cpp.s
+	$(MAKE) -f CMakeFiles\Ejercicio_6C.dir\build.make CMakeFiles/Ejercicio_6C.dir/Practica_6/Ejercicio_6C.cpp.s
+.PHONY : Practica_6/Ejercicio_6C.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -772,6 +1417,21 @@ help:
 	@echo ... Ejercicio_3B
 	@echo ... Ejercicio_3D
 	@echo ... Ejercicio_3E
+	@echo ... Ejercicio_4A
+	@echo ... Ejercicio_4B
+	@echo ... Ejercicio_4C
+	@echo ... Ejercicio_4D
+	@echo ... Ejercicio_4E
+	@echo ... Ejercicio_4F
+	@echo ... Ejercicio_4G
+	@echo ... Ejercicio_5A
+	@echo ... Ejercicio_5B
+	@echo ... Ejercicio_5C
+	@echo ... Ejercicio_5D
+	@echo ... Ejercicio_5E
+	@echo ... Ejercicio_6A
+	@echo ... Ejercicio_6B
+	@echo ... Ejercicio_6C
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Practica_1/Practica_1A.obj
@@ -819,6 +1479,51 @@ help:
 	@echo ... Practica_3/Ejercicio_3E.obj
 	@echo ... Practica_3/Ejercicio_3E.i
 	@echo ... Practica_3/Ejercicio_3E.s
+	@echo ... Practica_4/Ejercicio_4A.obj
+	@echo ... Practica_4/Ejercicio_4A.i
+	@echo ... Practica_4/Ejercicio_4A.s
+	@echo ... Practica_4/Ejercicio_4B.obj
+	@echo ... Practica_4/Ejercicio_4B.i
+	@echo ... Practica_4/Ejercicio_4B.s
+	@echo ... Practica_4/Ejercicio_4C.obj
+	@echo ... Practica_4/Ejercicio_4C.i
+	@echo ... Practica_4/Ejercicio_4C.s
+	@echo ... Practica_4/Ejercicio_4D.obj
+	@echo ... Practica_4/Ejercicio_4D.i
+	@echo ... Practica_4/Ejercicio_4D.s
+	@echo ... Practica_4/Ejercicio_4E.obj
+	@echo ... Practica_4/Ejercicio_4E.i
+	@echo ... Practica_4/Ejercicio_4E.s
+	@echo ... Practica_4/Ejercicio_4F.obj
+	@echo ... Practica_4/Ejercicio_4F.i
+	@echo ... Practica_4/Ejercicio_4F.s
+	@echo ... Practica_4/Ejercicio_4G.obj
+	@echo ... Practica_4/Ejercicio_4G.i
+	@echo ... Practica_4/Ejercicio_4G.s
+	@echo ... Practica_5/Ejercicio_5A.obj
+	@echo ... Practica_5/Ejercicio_5A.i
+	@echo ... Practica_5/Ejercicio_5A.s
+	@echo ... Practica_5/Ejercicio_5B.obj
+	@echo ... Practica_5/Ejercicio_5B.i
+	@echo ... Practica_5/Ejercicio_5B.s
+	@echo ... Practica_5/Ejercicio_5C.obj
+	@echo ... Practica_5/Ejercicio_5C.i
+	@echo ... Practica_5/Ejercicio_5C.s
+	@echo ... Practica_5/Ejercicio_5D.obj
+	@echo ... Practica_5/Ejercicio_5D.i
+	@echo ... Practica_5/Ejercicio_5D.s
+	@echo ... Practica_5/Ejercicio_5E.obj
+	@echo ... Practica_5/Ejercicio_5E.i
+	@echo ... Practica_5/Ejercicio_5E.s
+	@echo ... Practica_6/Ejercicio_6A.obj
+	@echo ... Practica_6/Ejercicio_6A.i
+	@echo ... Practica_6/Ejercicio_6A.s
+	@echo ... Practica_6/Ejercicio_6B.obj
+	@echo ... Practica_6/Ejercicio_6B.i
+	@echo ... Practica_6/Ejercicio_6B.s
+	@echo ... Practica_6/Ejercicio_6C.obj
+	@echo ... Practica_6/Ejercicio_6C.i
+	@echo ... Practica_6/Ejercicio_6C.s
 .PHONY : help
 
 

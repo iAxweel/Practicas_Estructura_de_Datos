@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.1.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\Ejercicio_5A.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Ejercicio_5A.dir/objects.a @CMakeFiles\Ejercicio_5A.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Ejercicio_5A.dir/objects.a -Wl,--no-whole-archive  -o "..\Practica 5\Ejercicio_5A.exe" -Wl,--out-implib,libEjercicio_5A.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Ejercicio_5A.dir\linklibs.rsp

@@ -647,6 +647,636 @@
 					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="Ejercicio_4A">
+				<Option output="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 4/Ejercicio_4A.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ejercicio_4A"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ejercicio_4A/fast">
+				<Option output="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 4/Ejercicio_4A.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ejercicio_4A/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ejercicio_4B">
+				<Option output="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 4/Ejercicio_4B.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ejercicio_4B"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ejercicio_4B/fast">
+				<Option output="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 4/Ejercicio_4B.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ejercicio_4B/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ejercicio_4C">
+				<Option output="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 4/Ejercicio_4C.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ejercicio_4C"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ejercicio_4C/fast">
+				<Option output="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 4/Ejercicio_4C.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ejercicio_4C/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ejercicio_4D">
+				<Option output="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 4/Ejercicio_4D.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ejercicio_4D"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ejercicio_4D/fast">
+				<Option output="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 4/Ejercicio_4D.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ejercicio_4D/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ejercicio_4E">
+				<Option output="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 4/Ejercicio_4E.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ejercicio_4E"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ejercicio_4E/fast">
+				<Option output="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 4/Ejercicio_4E.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ejercicio_4E/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ejercicio_4F">
+				<Option output="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 4/Ejercicio_4F.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ejercicio_4F"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ejercicio_4F/fast">
+				<Option output="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 4/Ejercicio_4F.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ejercicio_4F/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ejercicio_4G">
+				<Option output="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 4/Ejercicio_4G.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ejercicio_4G"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ejercicio_4G/fast">
+				<Option output="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 4/Ejercicio_4G.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ejercicio_4G/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ejercicio_5A">
+				<Option output="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 5/Ejercicio_5A.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ejercicio_5A"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ejercicio_5A/fast">
+				<Option output="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 5/Ejercicio_5A.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ejercicio_5A/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ejercicio_5B">
+				<Option output="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 5/Ejercicio_5B.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ejercicio_5B"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ejercicio_5B/fast">
+				<Option output="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 5/Ejercicio_5B.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ejercicio_5B/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ejercicio_5C">
+				<Option output="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 5/Ejercicio_5C.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ejercicio_5C"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ejercicio_5C/fast">
+				<Option output="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 5/Ejercicio_5C.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ejercicio_5C/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ejercicio_5D">
+				<Option output="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 5/Ejercicio_5D.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ejercicio_5D"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ejercicio_5D/fast">
+				<Option output="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 5/Ejercicio_5D.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ejercicio_5D/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ejercicio_5E">
+				<Option output="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 5/Ejercicio_5E.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ejercicio_5E"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ejercicio_5E/fast">
+				<Option output="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 5/Ejercicio_5E.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ejercicio_5E/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ejercicio_6A">
+				<Option output="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 6/Ejercicio_6A.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ejercicio_6A"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ejercicio_6A/fast">
+				<Option output="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 6/Ejercicio_6A.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ejercicio_6A/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ejercicio_6B">
+				<Option output="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 6/Ejercicio_6B.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ejercicio_6B"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ejercicio_6B/fast">
+				<Option output="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 6/Ejercicio_6B.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ejercicio_6B/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ejercicio_6C">
+				<Option output="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 6/Ejercicio_6C.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ejercicio_6C"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ejercicio_6C/fast">
+				<Option output="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 6/Ejercicio_6C.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ejercicio_6C/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="edit_cache">
 				<Option working_dir="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug"/>
 				<Option type="4"/>
@@ -726,6 +1356,66 @@
 		<Unit filename="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 3/Ejercicio_3E.cpp">
 			<Option target="Ejercicio_2A"/>
 			<Option target="Ejercicio_3E"/>
+		</Unit>
+		<Unit filename="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 4/Ejercicio_4A.cpp">
+			<Option target="Ejercicio_2A"/>
+			<Option target="Ejercicio_4A"/>
+		</Unit>
+		<Unit filename="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 4/Ejercicio_4B.cpp">
+			<Option target="Ejercicio_2A"/>
+			<Option target="Ejercicio_4B"/>
+		</Unit>
+		<Unit filename="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 4/Ejercicio_4C.cpp">
+			<Option target="Ejercicio_2A"/>
+			<Option target="Ejercicio_4C"/>
+		</Unit>
+		<Unit filename="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 4/Ejercicio_4D.cpp">
+			<Option target="Ejercicio_2A"/>
+			<Option target="Ejercicio_4D"/>
+		</Unit>
+		<Unit filename="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 4/Ejercicio_4E.cpp">
+			<Option target="Ejercicio_2A"/>
+			<Option target="Ejercicio_4E"/>
+		</Unit>
+		<Unit filename="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 4/Ejercicio_4F.cpp">
+			<Option target="Ejercicio_2A"/>
+			<Option target="Ejercicio_4F"/>
+		</Unit>
+		<Unit filename="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 4/Ejercicio_4G.cpp">
+			<Option target="Ejercicio_2A"/>
+			<Option target="Ejercicio_4G"/>
+		</Unit>
+		<Unit filename="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 5/Ejercicio_5A.cpp">
+			<Option target="Ejercicio_2A"/>
+			<Option target="Ejercicio_5A"/>
+		</Unit>
+		<Unit filename="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 5/Ejercicio_5B.cpp">
+			<Option target="Ejercicio_2A"/>
+			<Option target="Ejercicio_5B"/>
+		</Unit>
+		<Unit filename="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 5/Ejercicio_5C.cpp">
+			<Option target="Ejercicio_2A"/>
+			<Option target="Ejercicio_5C"/>
+		</Unit>
+		<Unit filename="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 5/Ejercicio_5D.cpp">
+			<Option target="Ejercicio_2A"/>
+			<Option target="Ejercicio_5D"/>
+		</Unit>
+		<Unit filename="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 5/Ejercicio_5E.cpp">
+			<Option target="Ejercicio_2A"/>
+			<Option target="Ejercicio_5E"/>
+		</Unit>
+		<Unit filename="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 6/Ejercicio_6A.cpp">
+			<Option target="Ejercicio_2A"/>
+			<Option target="Ejercicio_6A"/>
+		</Unit>
+		<Unit filename="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 6/Ejercicio_6B.cpp">
+			<Option target="Ejercicio_2A"/>
+			<Option target="Ejercicio_6B"/>
+		</Unit>
+		<Unit filename="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 6/Ejercicio_6C.cpp">
+			<Option target="Ejercicio_2A"/>
+			<Option target="Ejercicio_6C"/>
 		</Unit>
 		<Unit filename="C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>

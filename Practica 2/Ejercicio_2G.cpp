@@ -7,7 +7,7 @@ int main(){
     int a, b;
     cout<<"Ingrese numero a: "<<endl;
     cin>>a;
-    cout<<"Ingrse numero b: "<<endl;
+    cout<<"Ingrese numero b: "<<endl;
     cin>>b;
 
     cout<<"Valores sin intercambiar: "<<"\nValor a = "<<a<<"\nValor b = "<<b;

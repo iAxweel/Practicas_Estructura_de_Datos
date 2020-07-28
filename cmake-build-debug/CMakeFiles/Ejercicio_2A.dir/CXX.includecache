@@ -6,6 +6,10 @@
 
 #IncludeRegexTransform: 
 
+C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 2/Ejercicio_2A.cpp
+iostream
+-
+
 C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 2/Ejercicio_2B.cpp
 iostream
 -
@@ -44,5 +48,99 @@ iostream
 
 C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 2/Ejercicio_2G.cpp
 iostream
+-
+
+C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 3/Ejercicio_3A.cpp
+iostream
+-
+
+C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 3/Ejercicio_3B.cpp
+iostream
+-
+
+C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 3/Ejercicio_3C.cpp
+iostream
+-
+
+C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 3/Ejercicio_3D.cpp
+iostream
+-
+cmath
+-
+
+C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 3/Ejercicio_3E.cpp
+iostream
+-
+cmath
+-
+
+C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 4/Ejercicio_4A.cpp
+iostream
+-
+
+C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 4/Ejercicio_4B.cpp
+iostream
+-
+
+C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 4/Ejercicio_4C.cpp
+iostream
+-
+
+C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 4/Ejercicio_4D.cpp
+iostream
+-
+
+C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 4/Ejercicio_4E.cpp
+iostream
+-
+
+C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 4/Ejercicio_4F.cpp
+iostream
+-
+
+C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 4/Ejercicio_4G.cpp
+iostream
+-
+
+C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 5/Ejercicio_5A.cpp
+iostream
+-
+
+C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 5/Ejercicio_5B.cpp
+iostream
+-
+
+C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 5/Ejercicio_5C.cpp
+iostream
+-
+
+C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 5/Ejercicio_5D.cpp
+iostream
+-
+time.h
+-
+
+C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 5/Ejercicio_5E.cpp
+iostream
+-
+time.h
+-
+
+C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 6/Ejercicio_6A.cpp
+iostream
+-
+iomanip
+-
+
+C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 6/Ejercicio_6B.cpp
+iostream
+-
+iomanip
+-
+
+C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 6/Ejercicio_6C.cpp
+iostream
+-
+iomanip
 -
 

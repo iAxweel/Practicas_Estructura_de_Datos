@@ -15,3 +15,43 @@ CMakeFiles/Ejercicio_2A.dir/Practica_2/Ejercicio_2F.cpp.obj: ../Practica\ 2/Ejer
 
 CMakeFiles/Ejercicio_2A.dir/Practica_2/Ejercicio_2G.cpp.obj: ../Practica\ 2/Ejercicio_2G.cpp
 
+CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3A.cpp.obj: ../Practica\ 3/Ejercicio_3A.cpp
+
+CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3B.cpp.obj: ../Practica\ 3/Ejercicio_3B.cpp
+
+CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3C.cpp.obj: ../Practica\ 3/Ejercicio_3C.cpp
+
+CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3D.cpp.obj: ../Practica\ 3/Ejercicio_3D.cpp
+
+CMakeFiles/Ejercicio_2A.dir/Practica_3/Ejercicio_3E.cpp.obj: ../Practica\ 3/Ejercicio_3E.cpp
+
+CMakeFiles/Ejercicio_2A.dir/Practica_4/Ejercicio_4A.cpp.obj: ../Practica\ 4/Ejercicio_4A.cpp
+
+CMakeFiles/Ejercicio_2A.dir/Practica_4/Ejercicio_4B.cpp.obj: ../Practica\ 4/Ejercicio_4B.cpp
+
+CMakeFiles/Ejercicio_2A.dir/Practica_4/Ejercicio_4C.cpp.obj: ../Practica\ 4/Ejercicio_4C.cpp
+
+CMakeFiles/Ejercicio_2A.dir/Practica_4/Ejercicio_4D.cpp.obj: ../Practica\ 4/Ejercicio_4D.cpp
+
+CMakeFiles/Ejercicio_2A.dir/Practica_4/Ejercicio_4E.cpp.obj: ../Practica\ 4/Ejercicio_4E.cpp
+
+CMakeFiles/Ejercicio_2A.dir/Practica_4/Ejercicio_4F.cpp.obj: ../Practica\ 4/Ejercicio_4F.cpp
+
+CMakeFiles/Ejercicio_2A.dir/Practica_4/Ejercicio_4G.cpp.obj: ../Practica\ 4/Ejercicio_4G.cpp
+
+CMakeFiles/Ejercicio_2A.dir/Practica_5/Ejercicio_5A.cpp.obj: ../Practica\ 5/Ejercicio_5A.cpp
+
+CMakeFiles/Ejercicio_2A.dir/Practica_5/Ejercicio_5B.cpp.obj: ../Practica\ 5/Ejercicio_5B.cpp
+
+CMakeFiles/Ejercicio_2A.dir/Practica_5/Ejercicio_5C.cpp.obj: ../Practica\ 5/Ejercicio_5C.cpp
+
+CMakeFiles/Ejercicio_2A.dir/Practica_5/Ejercicio_5D.cpp.obj: ../Practica\ 5/Ejercicio_5D.cpp
+
+CMakeFiles/Ejercicio_2A.dir/Practica_5/Ejercicio_5E.cpp.obj: ../Practica\ 5/Ejercicio_5E.cpp
+
+CMakeFiles/Ejercicio_2A.dir/Practica_6/Ejercicio_6A.cpp.obj: ../Practica\ 6/Ejercicio_6A.cpp
+
+CMakeFiles/Ejercicio_2A.dir/Practica_6/Ejercicio_6B.cpp.obj: ../Practica\ 6/Ejercicio_6B.cpp
+
+CMakeFiles/Ejercicio_2A.dir/Practica_6/Ejercicio_6C.cpp.obj: ../Practica\ 6/Ejercicio_6C.cpp
+
