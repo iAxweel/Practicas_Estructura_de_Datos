@@ -127,7 +127,7 @@ int main(){
                       cin>>valor;
                       lista.Ins_Ini(valor);
                       break;
-            case '2': cout<<endl<<"Introduce un valor: ";
+            case '2': cout<<endl<<"Introduce un valor: "<<endl;
                       cin>>valor;
                       lista.Ins_Fin(valor);
                       break;
