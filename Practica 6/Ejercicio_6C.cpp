@@ -24,7 +24,6 @@ class Lista_Circular{
            void Ver();
            void Buscar(T);
            bool Vacia();
-
 };
 
 template<class T>
@@ -69,7 +68,6 @@ template<class T>
 T Lista_Circular<T>::Eliminar() {
     Nodo<T> *tmp = ini;
     Nodo<T> *ant = NULL;
-    Nodo<T> *sale = ini;
     bool encontrado = false;
     T val = ini->info;
     do{
@@ -91,10 +89,8 @@ T Lista_Circular<T>::Eliminar() {
         ant = tmp;
         tmp = tmp->sig;
     }while(tmp != ini && !encontrado);
-    if (ini->sig == NULL && ini ->atras == NULL) ini = NULL;
-    ini = sale->sig;
-    val = sale->info;
-    delete (sale);
+    if ((tmp -> sig == NULL) && (tmp -> atras == NULL)) tmp = NULL;
+    delete (tmp);
     return val;
 }
 
