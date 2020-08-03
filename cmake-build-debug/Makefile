@@ -130,6 +130,19 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named Ejercicio_7A
+
+# Build rule for target.
+Ejercicio_7A: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Ejercicio_7A
+.PHONY : Ejercicio_7A
+
+# fast build rule for target.
+Ejercicio_7A/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio_7A.dir\build.make CMakeFiles/Ejercicio_7A.dir/build
+.PHONY : Ejercicio_7A/fast
+
+#=============================================================================
 # Target rules for targets named Practica_1A
 
 # Build rule for target.
@@ -156,6 +169,19 @@ Ejercicio_2E/fast:
 .PHONY : Ejercicio_2E/fast
 
 #=============================================================================
+# Target rules for targets named Ejercicio_7B
+
+# Build rule for target.
+Ejercicio_7B: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Ejercicio_7B
+.PHONY : Ejercicio_7B
+
+# fast build rule for target.
+Ejercicio_7B/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio_7B.dir\build.make CMakeFiles/Ejercicio_7B.dir/build
+.PHONY : Ejercicio_7B/fast
+
+#=============================================================================
 # Target rules for targets named Practica_1B
 
 # Build rule for target.
@@ -180,6 +206,19 @@ Ejercicio_2D: cmake_check_build_system
 Ejercicio_2D/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio_2D.dir\build.make CMakeFiles/Ejercicio_2D.dir/build
 .PHONY : Ejercicio_2D/fast
+
+#=============================================================================
+# Target rules for targets named Ejercicio_7C
+
+# Build rule for target.
+Ejercicio_7C: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Ejercicio_7C
+.PHONY : Ejercicio_7C
+
+# fast build rule for target.
+Ejercicio_7C/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio_7C.dir\build.make CMakeFiles/Ejercicio_7C.dir/build
+.PHONY : Ejercicio_7C/fast
 
 #=============================================================================
 # Target rules for targets named Practica_1C
@@ -1416,6 +1455,96 @@ Practica_6/Ejercicio_6C.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio_6C.dir\build.make CMakeFiles/Ejercicio_6C.dir/Practica_6/Ejercicio_6C.cpp.s
 .PHONY : Practica_6/Ejercicio_6C.cpp.s
 
+Practica_7/Ejercicio_7A.obj: Practica_7/Ejercicio_7A.cpp.obj
+
+.PHONY : Practica_7/Ejercicio_7A.obj
+
+# target to build an object file
+Practica_7/Ejercicio_7A.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio_7A.dir\build.make CMakeFiles/Ejercicio_7A.dir/Practica_7/Ejercicio_7A.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_7/Ejercicio_7A.cpp.obj
+.PHONY : Practica_7/Ejercicio_7A.cpp.obj
+
+Practica_7/Ejercicio_7A.i: Practica_7/Ejercicio_7A.cpp.i
+
+.PHONY : Practica_7/Ejercicio_7A.i
+
+# target to preprocess a source file
+Practica_7/Ejercicio_7A.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio_7A.dir\build.make CMakeFiles/Ejercicio_7A.dir/Practica_7/Ejercicio_7A.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_7/Ejercicio_7A.cpp.i
+.PHONY : Practica_7/Ejercicio_7A.cpp.i
+
+Practica_7/Ejercicio_7A.s: Practica_7/Ejercicio_7A.cpp.s
+
+.PHONY : Practica_7/Ejercicio_7A.s
+
+# target to generate assembly for a file
+Practica_7/Ejercicio_7A.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio_7A.dir\build.make CMakeFiles/Ejercicio_7A.dir/Practica_7/Ejercicio_7A.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_7/Ejercicio_7A.cpp.s
+.PHONY : Practica_7/Ejercicio_7A.cpp.s
+
+Practica_7/Ejercicio_7B.obj: Practica_7/Ejercicio_7B.cpp.obj
+
+.PHONY : Practica_7/Ejercicio_7B.obj
+
+# target to build an object file
+Practica_7/Ejercicio_7B.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio_7B.dir\build.make CMakeFiles/Ejercicio_7B.dir/Practica_7/Ejercicio_7B.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_7/Ejercicio_7B.cpp.obj
+.PHONY : Practica_7/Ejercicio_7B.cpp.obj
+
+Practica_7/Ejercicio_7B.i: Practica_7/Ejercicio_7B.cpp.i
+
+.PHONY : Practica_7/Ejercicio_7B.i
+
+# target to preprocess a source file
+Practica_7/Ejercicio_7B.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio_7B.dir\build.make CMakeFiles/Ejercicio_7B.dir/Practica_7/Ejercicio_7B.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_7/Ejercicio_7B.cpp.i
+.PHONY : Practica_7/Ejercicio_7B.cpp.i
+
+Practica_7/Ejercicio_7B.s: Practica_7/Ejercicio_7B.cpp.s
+
+.PHONY : Practica_7/Ejercicio_7B.s
+
+# target to generate assembly for a file
+Practica_7/Ejercicio_7B.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio_7B.dir\build.make CMakeFiles/Ejercicio_7B.dir/Practica_7/Ejercicio_7B.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_7/Ejercicio_7B.cpp.s
+.PHONY : Practica_7/Ejercicio_7B.cpp.s
+
+Practica_7/Ejercicio_7C.obj: Practica_7/Ejercicio_7C.cpp.obj
+
+.PHONY : Practica_7/Ejercicio_7C.obj
+
+# target to build an object file
+Practica_7/Ejercicio_7C.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio_7C.dir\build.make CMakeFiles/Ejercicio_7C.dir/Practica_7/Ejercicio_7C.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_7/Ejercicio_7C.cpp.obj
+.PHONY : Practica_7/Ejercicio_7C.cpp.obj
+
+Practica_7/Ejercicio_7C.i: Practica_7/Ejercicio_7C.cpp.i
+
+.PHONY : Practica_7/Ejercicio_7C.i
+
+# target to preprocess a source file
+Practica_7/Ejercicio_7C.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio_7C.dir\build.make CMakeFiles/Ejercicio_7C.dir/Practica_7/Ejercicio_7C.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_7/Ejercicio_7C.cpp.i
+.PHONY : Practica_7/Ejercicio_7C.cpp.i
+
+Practica_7/Ejercicio_7C.s: Practica_7/Ejercicio_7C.cpp.s
+
+.PHONY : Practica_7/Ejercicio_7C.s
+
+# target to generate assembly for a file
+Practica_7/Ejercicio_7C.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio_7C.dir\build.make CMakeFiles/Ejercicio_7C.dir/Practica_7/Ejercicio_7C.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_7/Ejercicio_7C.cpp.s
+.PHONY : Practica_7/Ejercicio_7C.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -1451,6 +1580,9 @@ help:
 	@echo ... Ejercicio_6A
 	@echo ... Ejercicio_6B
 	@echo ... Ejercicio_6C
+	@echo ... Ejercicio_7A
+	@echo ... Ejercicio_7B
+	@echo ... Ejercicio_7C
 	@echo ... Practica_1A
 	@echo ... Practica_1B
 	@echo ... Practica_1C
@@ -1544,6 +1676,15 @@ help:
 	@echo ... Practica_6/Ejercicio_6C.obj
 	@echo ... Practica_6/Ejercicio_6C.i
 	@echo ... Practica_6/Ejercicio_6C.s
+	@echo ... Practica_7/Ejercicio_7A.obj
+	@echo ... Practica_7/Ejercicio_7A.i
+	@echo ... Practica_7/Ejercicio_7A.s
+	@echo ... Practica_7/Ejercicio_7B.obj
+	@echo ... Practica_7/Ejercicio_7B.i
+	@echo ... Practica_7/Ejercicio_7B.s
+	@echo ... Practica_7/Ejercicio_7C.obj
+	@echo ... Practica_7/Ejercicio_7C.i
+	@echo ... Practica_7/Ejercicio_7C.s
 .PHONY : help
 
 

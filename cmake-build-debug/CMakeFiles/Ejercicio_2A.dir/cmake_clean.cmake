@@ -29,6 +29,9 @@ file(REMOVE_RECURSE
   "CMakeFiles/Ejercicio_2A.dir/Practica_6/Ejercicio_6A.cpp.obj"
   "CMakeFiles/Ejercicio_2A.dir/Practica_6/Ejercicio_6B.cpp.obj"
   "CMakeFiles/Ejercicio_2A.dir/Practica_6/Ejercicio_6C.cpp.obj"
+  "CMakeFiles/Ejercicio_2A.dir/Practica_7/Ejercicio_7A.cpp.obj"
+  "CMakeFiles/Ejercicio_2A.dir/Practica_7/Ejercicio_7B.cpp.obj"
+  "CMakeFiles/Ejercicio_2A.dir/Practica_7/Ejercicio_7C.cpp.obj"
   "libEjercicio_2A.dll.a"
 )
 
