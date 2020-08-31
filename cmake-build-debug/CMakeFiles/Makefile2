@@ -105,6 +105,7 @@ all: CMakeFiles/Ejercicio_5E.dir/all
 all: CMakeFiles/Ejercicio_6A.dir/all
 all: CMakeFiles/Ejercicio_6B.dir/all
 all: CMakeFiles/Ejercicio_6C.dir/all
+all: CMakeFiles/Ejercicio_8A.dir/all
 
 .PHONY : all
 
@@ -147,6 +148,7 @@ clean: CMakeFiles/Ejercicio_5E.dir/clean
 clean: CMakeFiles/Ejercicio_6A.dir/clean
 clean: CMakeFiles/Ejercicio_6B.dir/clean
 clean: CMakeFiles/Ejercicio_6C.dir/clean
+clean: CMakeFiles/Ejercicio_8A.dir/clean
 
 .PHONY : clean
 
@@ -184,7 +186,7 @@ CMakeFiles/Ejercicio_7A.dir/clean:
 CMakeFiles/Practica_1A.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practica_1A.dir\build.make CMakeFiles/Practica_1A.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practica_1A.dir\build.make CMakeFiles/Practica_1A.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="C:\Users\josue\OneDrive\Desktop\Curse C++\Practicas\cmake-build-debug\CMakeFiles" --progress-num=90,91,92,93,94 "Built target Practica_1A"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="C:\Users\josue\OneDrive\Desktop\Curse C++\Practicas\cmake-build-debug\CMakeFiles" --progress-num=92,93,94,95,96 "Built target Practica_1A"
 .PHONY : CMakeFiles/Practica_1A.dir/all
 
 # Build rule for subdir invocation for target.
@@ -265,7 +267,7 @@ CMakeFiles/Ejercicio_7B.dir/clean:
 CMakeFiles/Practica_1B.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practica_1B.dir\build.make CMakeFiles/Practica_1B.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practica_1B.dir\build.make CMakeFiles/Practica_1B.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="C:\Users\josue\OneDrive\Desktop\Curse C++\Practicas\cmake-build-debug\CMakeFiles" --progress-num=95,96 "Built target Practica_1B"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="C:\Users\josue\OneDrive\Desktop\Curse C++\Practicas\cmake-build-debug\CMakeFiles" --progress-num=97,98 "Built target Practica_1B"
 .PHONY : CMakeFiles/Practica_1B.dir/all
 
 # Build rule for subdir invocation for target.
@@ -346,7 +348,7 @@ CMakeFiles/Ejercicio_7C.dir/clean:
 CMakeFiles/Practica_1C.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practica_1C.dir\build.make CMakeFiles/Practica_1C.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practica_1C.dir\build.make CMakeFiles/Practica_1C.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="C:\Users\josue\OneDrive\Desktop\Curse C++\Practicas\cmake-build-debug\CMakeFiles" --progress-num=97,98 "Built target Practica_1C"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="C:\Users\josue\OneDrive\Desktop\Curse C++\Practicas\cmake-build-debug\CMakeFiles" --progress-num=99,100 "Built target Practica_1C"
 .PHONY : CMakeFiles/Practica_1C.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1040,6 +1042,33 @@ Ejercicio_6C: CMakeFiles/Ejercicio_6C.dir/rule
 CMakeFiles/Ejercicio_6C.dir/clean:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio_6C.dir\build.make CMakeFiles/Ejercicio_6C.dir/clean
 .PHONY : CMakeFiles/Ejercicio_6C.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/Ejercicio_8A.dir
+
+# All Build rule for target.
+CMakeFiles/Ejercicio_8A.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio_8A.dir\build.make CMakeFiles/Ejercicio_8A.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio_8A.dir\build.make CMakeFiles/Ejercicio_8A.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="C:\Users\josue\OneDrive\Desktop\Curse C++\Practicas\cmake-build-debug\CMakeFiles" --progress-num=90,91 "Built target Ejercicio_8A"
+.PHONY : CMakeFiles/Ejercicio_8A.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/Ejercicio_8A.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\josue\OneDrive\Desktop\Curse C++\Practicas\cmake-build-debug\CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Ejercicio_8A.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\josue\OneDrive\Desktop\Curse C++\Practicas\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/Ejercicio_8A.dir/rule
+
+# Convenience name for target.
+Ejercicio_8A: CMakeFiles/Ejercicio_8A.dir/rule
+
+.PHONY : Ejercicio_8A
+
+# clean rule for target.
+CMakeFiles/Ejercicio_8A.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio_8A.dir\build.make CMakeFiles/Ejercicio_8A.dir/clean
+.PHONY : CMakeFiles/Ejercicio_8A.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

@@ -31,5 +31,6 @@ C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/CMakeFiles
 C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/CMakeFiles/Ejercicio_6A.dir
 C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/CMakeFiles/Ejercicio_6B.dir
 C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/CMakeFiles/Ejercicio_6C.dir
+C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/CMakeFiles/Ejercicio_8A.dir
 C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
