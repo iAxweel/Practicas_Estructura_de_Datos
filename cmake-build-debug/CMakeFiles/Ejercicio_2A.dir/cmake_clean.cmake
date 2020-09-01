@@ -33,6 +33,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Ejercicio_2A.dir/Practica_7/Ejercicio_7B.cpp.obj"
   "CMakeFiles/Ejercicio_2A.dir/Practica_7/Ejercicio_7C.cpp.obj"
   "CMakeFiles/Ejercicio_2A.dir/Practica_8/Ejercicio_8A.cpp.obj"
+  "CMakeFiles/Ejercicio_2A.dir/Practica_9/Ejercicio_9A.cpp.obj"
+  "CMakeFiles/Ejercicio_2A.dir/Practica_9/Ejercicio_9B.cpp.obj"
   "libEjercicio_2A.dll.a"
 )
 

@@ -16,7 +16,9 @@ C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/CMakeFiles
 C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/CMakeFiles/Ejercicio_3B.dir
 C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/CMakeFiles/Ejercicio_3D.dir
 C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/CMakeFiles/Ejercicio_3E.dir
+C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/CMakeFiles/Ejercicio_9B.dir
 C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/CMakeFiles/Ejercicio_4A.dir
+C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/CMakeFiles/Ejercicio_9A.dir
 C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/CMakeFiles/Ejercicio_4B.dir
 C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/CMakeFiles/Ejercicio_4C.dir
 C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/CMakeFiles/Ejercicio_4D.dir

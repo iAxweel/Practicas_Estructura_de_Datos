@@ -35,6 +35,8 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 7/Ejercicio_7B.cpp" "C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/CMakeFiles/Ejercicio_2A.dir/Practica_7/Ejercicio_7B.cpp.obj"
   "C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 7/Ejercicio_7C.cpp" "C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/CMakeFiles/Ejercicio_2A.dir/Practica_7/Ejercicio_7C.cpp.obj"
   "C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 8/Ejercicio_8A.cpp" "C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/CMakeFiles/Ejercicio_2A.dir/Practica_8/Ejercicio_8A.cpp.obj"
+  "C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 9/Ejercicio_9A.cpp" "C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/CMakeFiles/Ejercicio_2A.dir/Practica_9/Ejercicio_9A.cpp.obj"
+  "C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 9/Ejercicio_9B.cpp" "C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/cmake-build-debug/CMakeFiles/Ejercicio_2A.dir/Practica_9/Ejercicio_9B.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
