@@ -597,6 +597,19 @@ Ejercicio_8A/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio_8A.dir\build.make CMakeFiles/Ejercicio_8A.dir/build
 .PHONY : Ejercicio_8A/fast
 
+#=============================================================================
+# Target rules for targets named Ejercicio_10A
+
+# Build rule for target.
+Ejercicio_10A: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Ejercicio_10A
+.PHONY : Ejercicio_10A
+
+# fast build rule for target.
+Ejercicio_10A/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio_10A.dir\build.make CMakeFiles/Ejercicio_10A.dir/build
+.PHONY : Ejercicio_10A/fast
+
 Practica_1/Practica_1A.obj: Practica_1/Practica_1A.cpp.obj
 
 .PHONY : Practica_1/Practica_1A.obj
@@ -683,6 +696,36 @@ Practica_1/Practica_1C.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practica_1A.dir\build.make CMakeFiles/Practica_1A.dir/Practica_1/Practica_1C.cpp.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practica_1C.dir\build.make CMakeFiles/Practica_1C.dir/Practica_1/Practica_1C.cpp.s
 .PHONY : Practica_1/Practica_1C.cpp.s
+
+Practica_10/Ejercicio_10A.obj: Practica_10/Ejercicio_10A.cpp.obj
+
+.PHONY : Practica_10/Ejercicio_10A.obj
+
+# target to build an object file
+Practica_10/Ejercicio_10A.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_10/Ejercicio_10A.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio_10A.dir\build.make CMakeFiles/Ejercicio_10A.dir/Practica_10/Ejercicio_10A.cpp.obj
+.PHONY : Practica_10/Ejercicio_10A.cpp.obj
+
+Practica_10/Ejercicio_10A.i: Practica_10/Ejercicio_10A.cpp.i
+
+.PHONY : Practica_10/Ejercicio_10A.i
+
+# target to preprocess a source file
+Practica_10/Ejercicio_10A.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_10/Ejercicio_10A.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio_10A.dir\build.make CMakeFiles/Ejercicio_10A.dir/Practica_10/Ejercicio_10A.cpp.i
+.PHONY : Practica_10/Ejercicio_10A.cpp.i
+
+Practica_10/Ejercicio_10A.s: Practica_10/Ejercicio_10A.cpp.s
+
+.PHONY : Practica_10/Ejercicio_10A.s
+
+# target to generate assembly for a file
+Practica_10/Ejercicio_10A.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio_2A.dir\build.make CMakeFiles/Ejercicio_2A.dir/Practica_10/Ejercicio_10A.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio_10A.dir\build.make CMakeFiles/Ejercicio_10A.dir/Practica_10/Ejercicio_10A.cpp.s
+.PHONY : Practica_10/Ejercicio_10A.cpp.s
 
 Practica_2/Ejercicio_2A.obj: Practica_2/Ejercicio_2A.cpp.obj
 
@@ -1682,6 +1725,7 @@ help:
 	@echo ... depend
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... Ejercicio_10A
 	@echo ... Ejercicio_2A
 	@echo ... Ejercicio_2B
 	@echo ... Ejercicio_2C
@@ -1727,6 +1771,9 @@ help:
 	@echo ... Practica_1/Practica_1C.obj
 	@echo ... Practica_1/Practica_1C.i
 	@echo ... Practica_1/Practica_1C.s
+	@echo ... Practica_10/Ejercicio_10A.obj
+	@echo ... Practica_10/Ejercicio_10A.i
+	@echo ... Practica_10/Ejercicio_10A.s
 	@echo ... Practica_2/Ejercicio_2A.obj
 	@echo ... Practica_2/Ejercicio_2A.i
 	@echo ... Practica_2/Ejercicio_2A.s

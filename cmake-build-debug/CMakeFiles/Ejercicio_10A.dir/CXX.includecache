@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/josue/OneDrive/Desktop/Curse C++/Practicas/Practica 10/Ejercicio_10A.cpp
+iostream
+-
+iomanip
+-
+
